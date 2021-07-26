@@ -1,6 +1,0 @@
-@mixin mediaQueries($maxWidth){
-    @media screen and (max-width:$maxWidth){
-        @content
-    }
-}
-
